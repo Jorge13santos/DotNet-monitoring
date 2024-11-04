@@ -1,5 +1,5 @@
 # =======================================================
-# Stage 1 - Build/compile app using container
+# Stage 1 - Build/compile app using containerr
 # =======================================================
 
 ARG IMAGE_BASE=6.0-alpine
