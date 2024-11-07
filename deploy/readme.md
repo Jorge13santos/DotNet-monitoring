@@ -1,6 +1,6 @@
 # Deploy into Azure
 
-To deploy as a Azure Container App, a Bicep template is provided
+To deploy as a Azure Container App,, a Bicep template is provided
 
 Set resource group and region vars:
 
